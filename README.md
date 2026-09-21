@@ -206,4 +206,4 @@ Password Checkup is offered as a full free version, with all features and update
 Protect your online identity today! Download Password Checkup free and ensure your passwords are secure.
 
 ---
-**Last updated:** 2026-09-20 22:52:41 UTC
+**Last updated:** 2026-09-21 00:45:11 UTC
